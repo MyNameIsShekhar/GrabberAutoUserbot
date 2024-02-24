@@ -4,7 +4,7 @@ import requests
 import re
 from pyrogram import Client, filters
 
-#"Use true boolean if you want to allow a rarity, and false if you want to disable it."
+#Use true boolean if you want to allow a rarity, and false if you want to disable it
 legendary = True
 rare = True
 common = True
