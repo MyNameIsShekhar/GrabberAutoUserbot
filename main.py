@@ -4,13 +4,14 @@ import requests
 import re
 from pyrogram import Client, filters
 
+#"Use true boolean if you want to allow a rarity, and false if you want to disable it."
 legendary = True
-rare = False
+rare = True
 common = True
 exclusive = True
-medium = False
+medium = True
 limited_edition = True
-celestial = False
+celestial = True
 
 session_string = os.getenv('SESSION_STRING')
 api_hash = os.getenv('API_HASH')
