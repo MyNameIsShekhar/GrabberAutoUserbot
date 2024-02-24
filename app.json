@@ -9,7 +9,7 @@
          "WAIFU-HUSBANDO-CATCHER",
          "Auto Catcher"
       ],   
-   "repository": "",
+   "repository": "https://github.com/MyNameIsShekhar/GrabberAutoUserbot",
    "stack": "heroku-22",
    "addons": [
       {
