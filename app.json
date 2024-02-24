@@ -1,0 +1,39 @@
+{
+      "name": "AutoGrabberUserbot",
+      "description": "Auto Grabber User Bot",
+      "logo": "https://mallucampaign.in/images/img_1708753327.jpg",
+      "keywords": [
+         "telegram",
+         "Userbot",
+         "Pyrogram",
+         "WAIFU-HUSBANDO-CATCHER",
+         "Auto Catcher"
+      ],   
+   "repository": "",
+   "stack": "heroku-22",
+   "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
+   "env": {
+      "API_ID": {
+         "description": "Get this value from my.telegram.org/apps.",
+         "required": true,
+         "value": ""
+      },
+      "API_HASH": {
+         "description": "Get this value from my.telegram.org/apps.",
+         "required": true,
+         "value": ""
+      },
+      "SESSION_STRING": {
+         "description": "Get Ur session_string From @MissKatyRoBot",
+         "required": true,
+         "value": ""
+      }
+   }
+}
