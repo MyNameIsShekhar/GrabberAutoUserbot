@@ -6,4 +6,3 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 
-### also U Can clone by Using [@Auto_Grabber_Cloner_Bot](https://t.me/auto_Grabber_Cloner_Bot)
